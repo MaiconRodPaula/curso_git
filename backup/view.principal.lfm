@@ -1,0 +1,20 @@
+object FrmPrincipal: TFrmPrincipal
+  Left = 440
+  Height = 384
+  Top = 272
+  Width = 790
+  Caption = 'Curso - Git/GitHub'
+  ClientHeight = 384
+  ClientWidth = 790
+  DesignTimePPI = 120
+  LCLVersion = '2.2.6.0'
+  object btnMensagem: TButton
+    Left = 600
+    Height = 31
+    Top = 320
+    Width = 126
+    Caption = 'Mensagem'
+    OnClick = btnMensagemClick
+    TabOrder = 0
+  end
+end

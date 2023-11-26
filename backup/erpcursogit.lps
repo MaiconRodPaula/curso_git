@@ -18,6 +18,7 @@
         <Filename Value="view.principal.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="FrmPrincipal"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <IsVisibleTab Value="True"/>
         <TopLine Value="7"/>

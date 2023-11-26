@@ -9,9 +9,9 @@ object FrmPrincipal: TFrmPrincipal
   DesignTimePPI = 120
   LCLVersion = '2.2.6.0'
   object btnMensagem: TButton
-    Left = 600
-    Height = 31
-    Top = 320
+    Left = 648
+    Height = 40
+    Top = 328
     Width = 126
     Caption = 'Mensagem'
     OnClick = btnMensagemClick

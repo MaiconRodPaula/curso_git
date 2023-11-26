@@ -1,0 +1,16 @@
+# Verificar o status do projeto no repo. local
+$ git status
+
+# Adicionar (todos) os arquivos para o repositório
+$ git add .
+
+# Aplicar as alterações ou novos arquivos
+$ git commit -m "Descrição do commit"
+
+# Enviar os arquivos para o repositório remoto (gitHub)
+$ git push
+
+# Sincronizar o repositório local com o repo. remoto
+$ git pull
+
+# Comando para reverter alteração

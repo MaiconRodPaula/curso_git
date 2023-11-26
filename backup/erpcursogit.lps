@@ -12,7 +12,7 @@
         <WindowIndex Value="-1"/>
         <TopLine Value="-1"/>
         <CursorPos X="-1" Y="-1"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="23"/>
       </Unit>
       <Unit>
         <Filename Value="view.principal.pas"/>
@@ -22,13 +22,13 @@
         <ResourceBaseClass Value="Form"/>
         <IsVisibleTab Value="True"/>
         <TopLine Value="14"/>
-        <CursorPos X="24" Y="43"/>
-        <UsageCount Value="20"/>
+        <CursorPos X="29" Y="24"/>
+        <UsageCount Value="23"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="2">
+    <JumpHistory HistoryIndex="3">
       <Position>
         <Filename Value="view.principal.pas"/>
         <Caret Line="10" Column="13"/>
@@ -40,6 +40,10 @@
       <Position>
         <Filename Value="view.principal.pas"/>
         <Caret Line="38" Column="33" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="view.principal.pas"/>
+        <Caret Line="23" Column="29" TopLine="14"/>
       </Position>
     </JumpHistory>
     <RunParams>

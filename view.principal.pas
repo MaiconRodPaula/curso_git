@@ -7,7 +7,7 @@ interface
 uses
   Classes, SysUtils,
   Forms, Controls,
-  Graphics, Dialogs, StdCtrls;
+  Graphics, Dialogs, StdCtrls, ExtCtrls;
 
 type
 
@@ -16,6 +16,7 @@ type
   TFrmPrincipal = class(TForm)
     btnMensagem: TButton;
     Button1: TButton;
+    pnlTopo: TPanel;
     procedure btnMensagemClick(Sender: TObject);
     procedure Button1Click(Sender: TObject);
   private

@@ -1,0 +1,3 @@
+usuario: postgresql
+senha: 123
+path_lib: c://teste/postgresqldb/

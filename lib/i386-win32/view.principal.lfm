@@ -39,4 +39,13 @@ object FrmPrincipal: TFrmPrincipal
     ParentFont = False
     TabOrder = 2
   end
+  object tbMensagem2: TButton
+    Left = 24
+    Height = 40
+    Top = 286
+    Width = 126
+    Caption = 'Mensagem 2'
+    OnClick = tbMensagem2Click
+    TabOrder = 3
+  end
 end

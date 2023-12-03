@@ -16,9 +16,11 @@ type
   TFrmPrincipal = class(TForm)
     btnMensagem: TButton;
     Button1: TButton;
+    tbMensagem2: TButton;
     pnlTopo: TPanel;
     procedure btnMensagemClick(Sender: TObject);
     procedure Button1Click(Sender: TObject);
+    procedure tbMensagem2Click(Sender: TObject);
   private
 
   public
@@ -42,6 +44,11 @@ end;
 procedure TFrmPrincipal.Button1Click(Sender: TObject);
 begin
   Application.Terminate;
+end;
+
+procedure TFrmPrincipal.tbMensagem2Click(Sender: TObject);
+begin
+  ShowMessage('Mensagem 2');
 end;
 
 end.

@@ -36,7 +36,7 @@ implementation
 
 procedure TFrmPrincipal.btnMensagemClick(Sender: TObject);
 begin
-  ShowMessage('Curso git/github!');
+  ShowMessage('Curso git/github (Udemy)!');
 end;
 
 procedure TFrmPrincipal.Button1Click(Sender: TObject);

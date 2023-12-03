@@ -33,3 +33,15 @@ git push origin --tags (enviando todas)
 # Buscando as branchs criadas
 git fech -a
 
+# Juntando as branchs
+git merge origin/nome_branch
+
+# Visualizando os logs (curtos) dos commits
+git shortlog
+
+# Visualizando diferenças
+git diff
+ou
+git diff nome_arquivo
+
+

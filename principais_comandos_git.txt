@@ -42,6 +42,10 @@ git shortlog
 # Visualizando diferenças
 git diff
 ou
-git diff nome_arquivo
+git diff HEAD: nome_arquivo
 
+# Jogando os logs para um .txt
+git log >> log.txt
+git reflog >> reflog.txt
+git shortlog >> shortlog.txt
 

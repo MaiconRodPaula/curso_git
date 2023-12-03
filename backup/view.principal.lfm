@@ -1,7 +1,7 @@
 object FrmPrincipal: TFrmPrincipal
-  Left = 410
+  Left = 396
   Height = 384
-  Top = 252
+  Top = 236
   Width = 790
   Caption = 'Curso - Git/GitHub'
   ClientHeight = 384
@@ -25,5 +25,18 @@ object FrmPrincipal: TFrmPrincipal
     Caption = 'Sair'
     OnClick = Button1Click
     TabOrder = 1
+  end
+  object pnlTopo: TPanel
+    Left = 0
+    Height = 56
+    Top = 0
+    Width = 790
+    Align = alTop
+    BevelInner = bvLowered
+    Caption = 'Tela principal'
+    Font.Height = -20
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 2
   end
 end

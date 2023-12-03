@@ -1,3 +1,7 @@
+# Clonando um repositório
+git clone path_do_repositorio . 
+(o ponto no final clona o projeto sem criar uma nova pasta)
+
 # Verificar o status do projeto no repo. local
 $ git status
 
@@ -13,4 +17,16 @@ $ git push
 # Sincronizar o repositório local com o repo. remoto
 $ git pull
 
-# Comando para reverter alteração
+# Criando uma TAG
+git tag -a v1.0 -m "Primeira versão do sistema"
+
+# Visualizando as TAGs
+git tag (ou git show nome_tag para mais informações)
+
+# Selecionando uma TAG
+git checkout nome_tag
+
+# Enviando a TAG para o repo. remoto
+git push origin nome_tag (enviando uma específica)
+git push origin --tags (enviando todas)
+

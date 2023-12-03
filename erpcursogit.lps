@@ -21,14 +21,14 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="15"/>
-        <CursorPos X="40" Y="39"/>
+        <TopLine Value="22"/>
+        <CursorPos X="42" Y="51"/>
         <UsageCount Value="23"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="4">
+    <JumpHistory HistoryIndex="7">
       <Position>
         <Filename Value="view.principal.pas"/>
         <Caret Line="10" Column="13"/>
@@ -48,6 +48,18 @@
       <Position>
         <Filename Value="view.principal.pas"/>
         <Caret Line="24" Column="29" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="view.principal.pas"/>
+        <Caret Line="39" Column="40" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="view.principal.pas"/>
+        <Caret Line="41" Column="40" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="view.principal.pas"/>
+        <Caret Line="38" Column="117" TopLine="22"/>
       </Position>
     </JumpHistory>
     <RunParams>

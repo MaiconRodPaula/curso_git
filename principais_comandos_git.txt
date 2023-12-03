@@ -30,3 +30,6 @@ git checkout nome_tag
 git push origin nome_tag (enviando uma específica)
 git push origin --tags (enviando todas)
 
+# Buscando as branchs criadas
+git fech -a
+

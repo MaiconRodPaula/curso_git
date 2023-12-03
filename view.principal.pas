@@ -48,7 +48,7 @@ end;
 
 procedure TFrmPrincipal.tbMensagem2Click(Sender: TObject);
 begin
-  ShowMessage('Teste de branch');
+  ShowMessage('Teste de branch (alterado)');
 end;
 
 end.
